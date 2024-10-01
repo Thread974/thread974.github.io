@@ -1,0 +1,11 @@
+weight: 1
+title: "Sorties VTT"
+description: >
+  <ul class="list-style-none">
+    <li>Distance entre 25 et 45 km le weekend</li>
+    <li>Sorties en semaine selon disponibilités</li>
+    <li>Sorties nocturnes à l'automne</li>
+    <li>VTT musculaires ou électriques</li>
+  </ul>
+image: "img/carousel/page1.jpg"
+href: "/blog"
