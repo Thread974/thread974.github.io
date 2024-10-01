@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Universal</title>
-    <link>https://vtt-jacou34.ne/authors/</link>
-    <description>Recent content in Authors on Universal</description>
+    <title>Authors on Mountain Bike of Jacou</title>
+    <link>https://thread974.github.io/public/authors/</link>
+    <description>Recent content in Authors on Mountain Bike of Jacou</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://vtt-jacou34.ne/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://thread974.github.io/public/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>https://vtt-jacou34.ne/authors/john-doe/</link>
+      <link>https://thread974.github.io/public/authors/john-doe/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://vtt-jacou34.ne/authors/john-doe/</guid>
+      <guid>https://thread974.github.io/public/authors/john-doe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jane Doe</title>
-      <link>https://vtt-jacou34.ne/authors/jane-doe/</link>
+      <link>https://thread974.github.io/public/authors/jane-doe/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://vtt-jacou34.ne/authors/jane-doe/</guid>
+      <guid>https://thread974.github.io/public/authors/jane-doe/</guid>
       <description></description>
     </item>
     
