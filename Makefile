@@ -7,6 +7,9 @@ serve:
 view:
 	firefox localhost:3333
 
+push:
+	git push -f github.io
+
 upload:
 	cd public && (											\
 		echo "cd www"										\
