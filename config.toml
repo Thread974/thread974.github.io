@@ -178,7 +178,7 @@ pluralizelisttitles = false
 [params.topbar]
     enable = true
     text = """<p class="hidden-sm hidden-xs">Contactez nous mountain.bike.jacou@gmail.com</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+33786636423" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <p class="hidden-md hidden-lg"><a href="tel:+33712345678" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:mountain.bike.jacou@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
