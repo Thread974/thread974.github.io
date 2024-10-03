@@ -3,67 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thread974.github.io/public/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://thread974.github.io/public/blog/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://thread974.github.io/public/categories/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://thread974.github.io/public/blog/2021/08/01/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://thread974.github.io/public/blog/2024/10/03/ceyreste/</loc>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://thread974.github.io/public/tags/golang/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://thread974.github.io/public/tags/ceyreste/</loc>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://thread974.github.io/public/tags/hugo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/authors/john-doe/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/categories/lorem/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://thread974.github.io/public/authors/fred/</loc>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://thread974.github.io/public/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/tags/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://thread974.github.io/public/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://thread974.github.io/public/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://thread974.github.io/public/tags/vtt/</loc>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://thread974.github.io/public/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://thread974.github.io/public/tags/weekend/</loc>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://thread974.github.io/public/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>https://thread974.github.io/public/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://thread974.github.io/public/categories/weekend/</loc>
+    <lastmod>2024-10-03T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://thread974.github.io/public/bureau/</loc>
   </url><url>
@@ -71,10 +41,6 @@
   </url><url>
     <loc>https://thread974.github.io/public/inscription/</loc>
   </url><url>
-    <loc>https://thread974.github.io/public/tags/ipsum/</loc>
-  </url><url>
-    <loc>https://thread974.github.io/public/faq/</loc>
-  </url><url>
-    <loc>https://thread974.github.io/public/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>https://thread974.github.io/public/legal/</loc>
   </url>
 </urlset>
