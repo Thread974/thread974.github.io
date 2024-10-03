@@ -42,16 +42,22 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
-    url        = "/contact/"
+    name       = "Bureau"
+    identifier = "menu.bureau"
+    url        = "/bureau/"
     weight     = 4
 
 [[menu.main]]
-    name       = "Mentions légales"
-    identifier = "menu.faq"
-    url        = "/faq/"
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
     weight     = 5
+
+[[menu.main]]
+    name       = "Mentions légales"
+    identifier = "menu.legal"
+    url        = "/legal/"
+    weight     = 6
 
 
 # Top bar social links menu
@@ -237,7 +243,7 @@ pluralizelisttitles = false
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
+    title = "Activités récentes"
     subtitle = "Activité du club."
     hide_summary = false
 
