@@ -68,6 +68,13 @@ pluralizelisttitles = false
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
+    weight = 3
+    name = "Instagram"
+    url = "https://www.instagram.com/mountainbikeofjacou/"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+
+[[menu.topbar]]
     weight = 5
     name = "Email"
     url = "mailto:mountain.bike.jacou@gmail.com"
