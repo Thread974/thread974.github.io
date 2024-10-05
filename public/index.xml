@@ -62,5 +62,18 @@ En cas de modification, interruption ou suspension des services le site https://
  COORDONNEES  Association Mountain Bike of Jacou</description>
     </item>
     
+    <item>
+      <title>Nos partenaires</title>
+      <link>https://thread974.github.io/public/partenaires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thread974.github.io/public/partenaires/</guid>
+      <description>https://www.ville-jacou.fr/
+  https://sport.herault.fr/
+ https://sii-group.com/fr-FR/sii-aix-mediterranee
+ https://simplybike34.fr/
+ https://www.intermarche.com/accueil?location=jacou-34830&amp;amp;ref=10208</description>
+    </item>
+    
   </channel>
 </rss>
