@@ -54,28 +54,34 @@ pluralizelisttitles = false
     weight     = 5
 
 [[menu.main]]
+    identifier = "partenaires"
+    name       = "Partenaires"
+    url        = "/partenaires/"
+    weight     = 6
+
+[[menu.main]]
     name       = "Mentions légales"
     identifier = "menu.legal"
     url        = "/legal/"
-    weight     = 6
+    weight     = 7
 
 
 # Top bar social links menu
 [[menu.topbar]]
-    weight = 3
+    weight = 1
     name = "Facebook"
     url = "https://www.facebook.com/mountainbikeofjacou"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
-    weight = 3
+    weight = 2
     name = "Instagram"
     url = "https://www.instagram.com/mountainbikeofjacou/"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 
 [[menu.topbar]]
-    weight = 5
+    weight = 3
     name = "Email"
     url = "mailto:mountain.bike.jacou@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
@@ -83,7 +89,7 @@ pluralizelisttitles = false
 [params]
     viewMorePostLink = "/blog/"
     author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    defaultKeywords = ["mbj", "mountain", "bike", "jacou", "vtt", "loisir"]
     mainSections = ["blog"]
     defaultDescription = "Site template made by Devcows using Hugo"
 
